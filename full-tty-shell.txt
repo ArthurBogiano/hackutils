@@ -1,0 +1,17 @@
+python -c 'import pty;pty.spawn("/bin/bash")'
+
+export TERM=xterm-256color
+
+CTRL+Z
+
+stty raw -echo
+
+ENTER
+
+fg
+
+ENTER
+
+reset
+
+ENTER
