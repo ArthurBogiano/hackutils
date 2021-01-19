@@ -1,0 +1,7 @@
+Hashes em geral
+----------------------
+https://hashes.com/en/decrypt/hash
+
+Privilege escalation utils
+-----------------------------
+https://gtfobins.github.io/
