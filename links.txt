@@ -5,3 +5,33 @@ https://hashes.com/en/decrypt/hash
 Privilege escalation utils
 -----------------------------
 https://gtfobins.github.io/
+
+Email fake
+--------------------
+https://emkei.cz/
+
+php webshell
+------------------
+https://github.com/flozz/p0wny-shell
+
+Pwndb - vazamento de senhas
+-------------------------------------------
+https://github.com/jdiazmx/karma
+https://github.com/davidtavarez/pwndb
+
+Identificar emails - osint
+----------------------------------
+https://hunter.io
+https://github.com/khast3x/h8mail
+
+Ver IP
+--------------------------------
+http://meuip.com/api/meuip.php
+
+Remove fundos
+--------------------------------
+https://remove.bg/pt-br
+
+Learning
+--------------
+https://book.hacktricks.xyz/
