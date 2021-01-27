@@ -35,3 +35,8 @@ https://remove.bg/pt-br
 Learning
 --------------
 https://book.hacktricks.xyz/
+
+Sites aleatorios
+--------------
+https://pointerpointer.com/
+https://thispersondoesnotexist.com/
