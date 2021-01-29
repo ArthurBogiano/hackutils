@@ -1,0 +1,6 @@
+.git/HEAD
+.git
+readme.md
+README.md
+README.MD
+readme.MD
