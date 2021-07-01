@@ -1,0 +1,17 @@
+ENGENHARIA REVERSA:
+
+apktool -f -r d app.apk
+
+apktool b ailos/ -o app_mod.apk
+
+ASSINAR:
+
+https://github.com/techexpertize/SignApk
+
+zipalign -f -v -p  4 app_mod.apk app_align.apk
+
+apksigner sign --key key.pk8 --cert certificate.pem app_align.apk && apksigner verify app_align.apk
+
+INSTALAR:
+
+adb shell settings put global verifier_verify_adb_installs 0
