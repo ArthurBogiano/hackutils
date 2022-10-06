@@ -1,0 +1,3 @@
+frida-ps -Uai   - Listar processos e pacotes dispositivo
+
+frida -l sslroot.js -f br.com.app.package -U     - Injeta codigo
