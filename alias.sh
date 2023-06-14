@@ -10,4 +10,5 @@ alias fcommum='ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt' -c
 alias fmedium='ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt' -c
 alias fraftd='ffuf -w /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt' -c
 alias fraftf='ffuf -w /usr/share/seclists/Discovery/Web-Content/raft-large-files.txt' -c
-
+alias fboom='ffuf -w /usr/share/seclists/Fuzzing/fuzz-Bo0oM.txt' -c
+alias fhits='ffuf -w /usr/share/seclists/Discovery/Web-Content/quickhits.txt' -c
