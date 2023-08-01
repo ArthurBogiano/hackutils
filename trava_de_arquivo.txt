@@ -1,0 +1,15 @@
+Para bloquear um arquivo:
+
+# chattr +i arquivo
+
+Para bloquear um diretório:
+
+# chattr +i diretorio/
+
+Para liberar um arquivo:
+
+# chattr -i arquivo
+
+Para liberar um diretório:
+
+# chattr -i diretorio/
