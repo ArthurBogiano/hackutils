@@ -1,4 +1,8 @@
 WORDPRESS TRICKS
 ------------------------
 
-Pegar usuarios -> /wp-json/wp/v2/users
+Pegar usuarios
+
+/?author=[id]
+/wp-json/wp/v2/users
+/?rest_route=/wp/v2/users
